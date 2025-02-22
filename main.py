@@ -1,3 +1,3 @@
 print("Hello World")
 
-print("VSCode ist kacke")
+print("VSCode :(")
